@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "We shape our tools, and thereafter, our tools shape us. (But lo! We have become a tool of our tools!)"
+title: "We shape our tools, and thereafter, our tools shape us."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,11 @@ redirect_from:
 
 
 ![Banner](/images/BANNER.PNG)
+
+(But lo! We have become a tool of our tools!)
+===
+
+> A work in progress, where I claim my own little corner on the vast net.
 
 Asynchronous atomic design junior bike-shedding public branch flexbox imperative-mood reflection dynamic types. Distributed systems engineer tech debt pair programming static typing gradle backend. Chrome stateless imperative-mood responsive public reflog.
 
